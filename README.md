@@ -27,8 +27,8 @@ The goal is to build intuition for how rate regimes map to equity risk and to ou
 
 - **Team Number:** 10  
 - **Team Name:** **The Exponents**  
-- **Team Members:** Akbar, Daaksha, Dongfang, Jaisy, Purnima, Vishesh  
-- **Project Manager:** Vishesh
+- **Team Members:** Akbar Wibowo, Daaksha Arun, MuDongfang Li, Jaisy Wang, Purnima Khemkha, Vishesh Goyal 
+- **Project Manager:** Vishesh Goyal
 
 ---
 
